@@ -7,7 +7,7 @@ build
 # General
 .DS_Store
 .AppleDouble
-.LSOverride
+.LSOverridecd 
 
 # Icon must end with two \r
 Icon
